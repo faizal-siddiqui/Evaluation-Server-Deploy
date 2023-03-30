@@ -15,6 +15,7 @@
   "users": [
     {
       "id": 1,
+      "name": "Faizal Siddiqui",
       "email": "faizal@gmail.com",
       "password": "faizal"
     }
