@@ -50,6 +50,8 @@
   ],
   "transactions": [
     {
+      "id": 1,
+      "userId": 1,
       "type": "Income",
       "category": "Salary",
       "amount": 5000,
