@@ -15,7 +15,6 @@
   "users": [
     {
       "id": 1,
-      "username": "faizal",
       "email": "faizal@gmail.com",
       "password": "faizal"
     }
@@ -46,6 +45,14 @@
     {
       "username": "faizal",
       "booked_movie": 1
+    }
+  ],
+  "transactions": [
+    {
+      "type": "Income",
+      "category": "Salary",
+      "amount": 5000,
+      "date": ""
     }
   ]
 }
