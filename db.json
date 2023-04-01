@@ -57,5 +57,12 @@
       "amount": 5000,
       "date": ""
     }
+  ],
+  "players": [
+    {
+      "id": 1,
+      "name": "Faizal Siddiqui",
+      "scores": 0
+    }
   ]
 }
